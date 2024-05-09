@@ -1,3 +1,3 @@
-# A Sudoku Solver Visualizer
+# Sourcer.Tech Frontend Test
 
-A web app that can solve Sudoku puzzles and visualize the solving process in real-time.
+A web app to find candidates in an efficient manner.
